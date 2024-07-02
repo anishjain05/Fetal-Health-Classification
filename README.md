@@ -1,6 +1,6 @@
 # Fetal-Health-Classification
 
-*(Made as part of the Statistical Machine Learning (SML) coursework)*
+*(Made as part of the Statistical Machine Learning (SML) coursework at IIIT-Delhi)*
 
 ## Description
 
@@ -29,3 +29,7 @@ number of instances to train and evaluate our models effectively.
 
 We will evaluate the performance of our classification models using standard metrics such as
 **accuracy, precision, recall, and F1-score**.
+
+## Contributions
+- **Anish Jain**
+- **Dhawal Bansal**
