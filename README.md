@@ -34,7 +34,7 @@ number of instances to train and evaluate our models effectively.
 We will evaluate the performance of our classification models using standard metrics such as
 **accuracy, precision, recall, and F1-score**.
 
-*Check report for results, analysis and takeaways (uploaded)*
+*Check Project Report for results, analysis and takeaways (uploaded)*
 
 ## Contributions
 - **Anish Jain**
